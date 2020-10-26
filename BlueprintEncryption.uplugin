@@ -1,0 +1,28 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "BlueprintEncryption",
+	"Description": "Encrypts and decrypts strings using Base64.",
+	"Category": "Blueprints",
+	"CreatedBy": "Aaron Hunt",
+	"CreatedByURL": "https://github.com/anhuntz",
+	"DocsURL": "https://github.com/anhuntz",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "4.22.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "BlueprintEncryption",
+			"Type": "Runtime",
+			"LoadingPhase": "PreLoadingScreen",
+			"WhitelistPlatforms": [
+				"Win64",
+				"Win32",
+				"Linux"
+			]
+		}
+	]
+}
